@@ -1,0 +1,44 @@
+[
+    {
+        "source": {
+            "id": "P420440",
+            "crawlUrl": "https://www.sephora.com/product/make-no-mistake-foundation-concealer-stick-P420440?skuId=1887520&icid2=products%20grid:p420440",
+            "canonicalUrl": "https://www.sephora.com/product/make-no-mistake-foundation-concealer-stick-P420440",
+            "retailer": "SEPHORA",
+            "currency": "USD"
+        },
+        "brand": "SEPHORA COLLECTION",
+        "title": "Make No Mistake Foundation & Concealer Stick",
+        "description": "<b>Coverage:</b><br>&#10004; Medium<br><br><b>Skin type:</b><br>&#10004; Combination<br>&#10004; Oily<br><br><b>Finish:</b><br>&#10004; Matte<br><br><b>What it is:</b><br> A medium- to full-coverage foundation and concealer stick with a natural matte finish.",
+        "categories": ["Makeup", "Face", "Foundation"],
+        "options": [
+            {
+                "type": "Color",
+                "values": [
+                    {"id": "3 Beechwood", "name": "3 Beechwood", "icon": "https://www.sephora.com/productimages/sku/s1887405+sw.jpg"},
+                    {"id": "15 Mahogany", "name": "15 Mahogany", "icon": "https://www.sephora.com/productimages/sku/s1887520+sw.jpg"}
+                ]
+            },
+            {
+                "type": "Size",
+                "values": [{"id": "0.41 oz/ 11.6 g", "name": "0.41 oz/ 11.6 g"}]
+            }
+        ],
+        "variants": [
+            {
+                "id": "1887405",
+                "sku": "1887405",
+                "price": {"current": 800, "original": 2000, "stockStatus": "OutOfStock"},
+                "options": ["3 Beechwood", "0.41 oz/ 11.6 g"]
+            }
+        ],
+        "medias": [
+            {
+                "type": "Image",
+                "url": "https://www.sephora.com/productimages/sku/s1887405-main-zoom.jpg?pb=2020-03-sephora-value-2020",
+                "variantIds": ["1887405"]
+            }
+        ],
+        "stats": {"reviewCount": 749, "rating": 3.9306, "lovesCount": 61136}
+    }
+]
